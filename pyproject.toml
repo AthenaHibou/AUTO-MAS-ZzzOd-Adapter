@@ -22,7 +22,7 @@ Changelog = "https://github.com/AUTO-MAS-Project/AUTO-MAS-ZzzOd-Adapter/blob/HEA
 where = ["src"]
 
 [tool.setuptools.package-data]
-zzzod_adapter = ["py.typed", "ui/*", "ui/**/*", "i18n/*.json"]
+zzzod_adapter = ["py.typed", "ui/*", "ui/**/*", "i18n/*.json", "auto_mas_icon.png"]
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
